@@ -72,7 +72,7 @@ class BlogPost extends Component {
         <div className="col-xl-7 col-lg-6 col-md-12 col-sm-12 order-10 content">
           <Content post={html} />
           <div className="m-message" style={bgWhite}>
-          <font size="3" color="#542c85">
+          <font size="3" color="#384f7c">
             Welcome to communicate with me. Author:Ting
           </font>
           </div>

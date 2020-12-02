@@ -2,7 +2,7 @@
 
 .intro-header {
   background: $white;
-  color: $blue-purple;
+  color: $dark-blue;
   box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
   height: 100%;
   @media (max-width: 992px) {
@@ -25,7 +25,7 @@
     }
 
     .name {
-      color: $blue-purple;
+      color: $dark-blue;
       text-decoration: none;
 
       :hover {

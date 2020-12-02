@@ -1,5 +1,5 @@
 {
-  "url": "https://ting.personal.blog",
+  "url": "https://ting-personal-space.netlify.app/",
   "meta": {
     "favicon": "/favicons/android-chrome-512x512.png",
     "keyword": "Ting, blog, java",
@@ -16,7 +16,7 @@
   },
   "title": "Ting's Personal Blog'",
   "gitalk": {
-    "repo": "TingsPersonalBlog",
+    "repo": "purple-blog",
     "admin": ["Ting"],
     "owner": "Ting",
     "clientID": "?",
@@ -27,7 +27,7 @@
   "License": "by",
   "friends": [
     {
-      "href": "https://ting.personal.blog",
+      "href": "https://ting-personal-space.netlify.app/",
       "title": "Ting's Blog"
     }
   ],
@@ -44,7 +44,7 @@
     },
     {
       "href": "/2020/12/01/about-Ting/",
-      "title": "About-ME"
+      "title": "About Me"
     }
   ],
   "redirectors": [

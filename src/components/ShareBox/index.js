@@ -22,7 +22,7 @@ const CommentButton = () => (
       })
     }
   >
-    <FontAwesomeIcon icon={['far', 'comment']} color="#542c85"/>
+    <FontAwesomeIcon icon={['far', 'comment']} color="#384f7c"/>
   </a>
 );
 
@@ -39,7 +39,7 @@ const ShareBox = ({ url, hasCommentBox }) => (
         })
       }
     >
-      <FontAwesomeIcon icon={['fab', 'facebook-f']} color="#542c85"/>
+      <FontAwesomeIcon icon={['fab', 'facebook-f']} color="#384f7c"/>
     </a>
 
     {/* 視覺置中 => 稍微往上偏移 */}
@@ -59,7 +59,7 @@ const ShareBox = ({ url, hasCommentBox }) => (
         paddingLeft: '0.1rem',
       }}
     >
-      <FontAwesomeIcon icon={['fas', 'chevron-up']} color="#542c85"/>
+      <FontAwesomeIcon icon={['fas', 'chevron-up']} color="#384f7c"/>
     </a>
   </div>
 );

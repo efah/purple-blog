@@ -3,7 +3,7 @@
   siteMetadata: {
     title: 'Ting\'s Blog',
     description: 'On the way to code',
-    siteUrl: 'https://ting.personal.blog',
+    siteUrl: 'https://ting-personal-space.netlify.app/',
     author: 'Ting',
   },
   plugins: [

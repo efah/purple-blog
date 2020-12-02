@@ -23,7 +23,7 @@ const Footer = () => (
           </p>
           <p className="copyright">
             Copyright&nbsp;
-            <ExternalLink href="https://ting.personal.blog/" title="&copy;ting" />
+            <ExternalLink href="https://ting-personal-space.netlify.app/" title="&copy;Ting" />
             &nbsp;
             {config.title}
             {new Date().getFullYear()}

@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-id: https://ting.personal.blog/guestbook/
+id: https://ting-personal-space.netlify.app/guestbook/
 title: 留言版
 slug: /guestbook
 date: 2020-03-22T03:48:03.125Z

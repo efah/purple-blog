@@ -27,7 +27,7 @@ const Icon = ({ href, icon }) => (
     className="custom-icon"
   >
     <span className="fa-layers fa-fw fa-2x">
-      <FontAwesomeIcon icon={icon} color="#542c85"/>
+      <FontAwesomeIcon icon={icon} color="#384f7c"/>
     </span>
   </a>
 );

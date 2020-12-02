@@ -23,7 +23,7 @@ const Footer = () => (
           </p>
           <p className="copyright">
             Copyright&nbsp;
-            <ExternalLink href="https://www.dyuzz.club/" title="&copy;dyuzz" />
+            <ExternalLink href="https://ting.personal.blog/" title="&copy;ting" />
             &nbsp;
             {config.title}
             {new Date().getFullYear()}

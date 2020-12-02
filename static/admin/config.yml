@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Dyuzz/Dyuzz-Gatsby-Blog
+  repo: efah/purple-blog
   # Branch to update (optional; defaults to master)
   branch: master
 

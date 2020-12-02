@@ -73,7 +73,7 @@ class BlogPost extends Component {
           <Content post={html} />
           <div className="m-message" style={bgWhite}>
           <font size="3" color="#542c85">
-            Welcome to communicate with me. Author:Dyuzz
+            Welcome to communicate with me. Author:Ting
           </font>
           </div>
         <div id="gitalk-container" />
@@ -81,7 +81,7 @@ class BlogPost extends Component {
         <SEO
           title={title}
           url={slug}
-          siteTitleAlt="Dyuzz's Blog"
+          siteTitleAlt="Ting's Blog"
           isPost={false}
           description={excerpt}
           image={headerImage || '/favicons/default.png'}

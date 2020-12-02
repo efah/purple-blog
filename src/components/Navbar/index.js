@@ -33,7 +33,7 @@ const Navbar = () => (
           gotoPage('/');
         }}
       >
-        <span className="brand-logo">Dyuzz</span>
+        <span className="brand-logo">Ting</span>
         &apos;s Blog
       </button>
 
@@ -45,7 +45,7 @@ const Navbar = () => (
       >
         <FontAwesomeIcon icon={faBars} color="white"/>
       </button>
-      <GithubCorner url="https://github.com/dyuzz" />
+      <GithubCorner url="https://github.com/efah" />
       <div
         className="collapse navbar-collapse flex-row-reverse"
         id="navbarSupportedContent"

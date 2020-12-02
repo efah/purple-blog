@@ -1,8 +1,8 @@
 {
   "name": "blog",
-  "description": "Dyuzz's Blog",
+  "description": "Ting's Blog",
   "version": "1.0.0",
-  "author": "Dyuzz <706940134@qq.com>",
+  "author": "Ting <ting@efah0147.33mail.com>",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.4",
     "@fortawesome/free-brands-svg-icons": "^5.3.1",

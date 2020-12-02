@@ -41,7 +41,7 @@ const TagPage = ({ data, pageContext }) => {
       <SEO
         title={tag}
         url={`/tag/${tag}`}
-        siteTitleAlt="Dyuzz's Blog"
+        siteTitleAlt="Ting's Blog"
         isPost={false}
         description={tag}
         image="/favicons/default.png"

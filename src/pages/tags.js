@@ -43,9 +43,9 @@ const TagPage = ({ data }) => {
         </div>
       </div>
       <SEO
-        title="标签"
+        title="標籤"
         url="/tags/"
-        siteTitleAlt="Dyuzz's Blog"
+        siteTitleAlt="Ting's Blog"
         isPost={false}
         description="Tags Page"
         image="/favicons/default.png"

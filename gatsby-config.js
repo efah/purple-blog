@@ -1,10 +1,10 @@
   module.exports = {
   pathPrefix: '/',
   siteMetadata: {
-    title: 'Dyuzz&apos;s Blog',
-    description: 'Front End Technical Blog - Dyuzz',
-    siteUrl: 'https://www.dyuzz.club',
-    author: 'Dyuzz',
+    title: 'Ting\'s Blog',
+    description: 'On the way to code',
+    siteUrl: 'https://ting.personal.blog',
+    author: 'Ting',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -48,8 +48,8 @@
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: "Dyuzz's Blog",
-        short_name: 'Dyuzz',
+        name: "Ting's Blog",
+        short_name: 'Ting',
         start_url: '/',
         background_color: '#ededed',
         theme_color: '#384f7c',

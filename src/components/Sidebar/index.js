@@ -36,23 +36,23 @@ const Sidebar = ({ totalCount, latestPosts }) => (
   <header className="intro-header site-heading text-center col-xl-2 col-lg-3 col-xs-12 order-lg-1">
     <div className="about-me">
       <Link to={about} href={about} className="name">
-        <img className="avatar" src={iconUrl} alt="Dyuzz" />
-        <h4>Dyuzz</h4>
+        <img className="avatar" src={iconUrl} alt="Ting" />
+        <h4>Ting</h4>
       </Link>
       <p className="mb-1">{wordings[0]}</p>
       <p className="mb-3">{wordings[1]}</p>
-      <Icon
+      {/* <Icon
         href={`https://www.zhihu.com/people/${zhihuUsername}`}
         icon={['fab', 'zhihu']}
-      />
+      /> */}
       <Icon
-        href={`https://github.com/${githubUsername}`}
+        href={`https://github.com/efah`}
         icon={['fab', 'github']}
       />
-      <Icon href={`mailto:${email}`} icon={['far', 'envelope']} />
-      {facebook
+      <Icon href={`mailto:${'ting@efah0147.33mail.com'}`} icon={['far', 'envelope']} />
+      {/* {facebook
         && <Icon href={`https://www.facebook.com/${facebook}/`} icon={['fab', 'facebook']} />
-      }
+      } */}
       <Information totalCount={totalCount} posts={latestPosts} />
     </div>
   </header>
